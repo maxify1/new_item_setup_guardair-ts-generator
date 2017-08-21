@@ -1,0 +1,1 @@
+# new_item_setup_guardair-ts-generator
